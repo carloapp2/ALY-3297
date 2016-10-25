@@ -1,10 +1,5 @@
-<img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/StrataHadoop_NYC2016.jpg"/>
- 
-#Hands On Lab - IBM Booth: #439
 
-###This Lab will be performed on IBM Data Science Experience platform (datascience.ibm.com). This Lab will guide you to load, analyze and visualize public health violation data to uncover interesting insights about New York Restaurants using Apache Spark, Python and Jupyter.
-
-IBM Data Science Experience (DSX) is the premier offering that seamlessly allows data scientists and data engineers to connect data from multiple domains, to analyze and visually explore the data for insights. DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, intuitive data connectivity and processing capabilities of Apache Spark, and the state-of-art dynamic visualization technology using Brunel, Pixiedust, and RStudio.
+#ALY-3297 Why Data Scientist Benefits from Apach Spark
 
 #Step 1. Get on IBM Data Science Experience (DSX).
 ##Create a BlueMix Account.
@@ -34,13 +29,7 @@ IBM Data Science Experience (DSX) is the premier offering that seamlessly allows
 
  > <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/DSX%20Landing.png">
 
-#Step 2. Watch the Video of this Hands on Exercise.
-
-Click on Image to watch YouTube Video. https://www.youtube.com/watch?v=2Ub8lf4upag
-
- > [![Video](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/Video.png)](https://www.youtube.com/watch?v=2Ub8lf4upag "NY Resturant Analysis")
-
-#Step 3. Load your notbook into Data Science Experience (DSX).
+#Step 2. Load Notebook.
 
 1. Click Start a New Notebook.
 
@@ -55,11 +44,3 @@ Click on Image to watch YouTube Video. https://www.youtube.com/watch?v=2Ub8lf4up
  > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png" width="296">
 
 #Step 4. Execute the steps in your notebook.
-
-Run code cells in your notebook. Note: Read instructions. Some cells require you to enter the code. 
-
-*Interface Hint: 
-Jupyter notebooks are cell driving with commands buttons along the top. 
-Just hit play button to run code in an active cell.
-
-If your doing the Lab in IBM Booth: #439, once completed, show your executed code to booth rep. and earn your Raspberry Pi 3!
